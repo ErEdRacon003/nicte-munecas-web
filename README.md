@@ -1,6 +1,6 @@
 # 🪆 Muñecas Nicté - Catálogo Artesanal
 
-Sitio web oficial de **Muñecas Nicté**, una marca dedicada a la preservación y difusión de muñecas artesanales de Tlaxcala. Este proyecto permite digitalizar el inventario, gestionar ventas vía WhatsApp y administrar accesos familiares de forma segura.
+Sitio web oficial de **Muñecas Nicté**, una marca dedicada a la preservación y difusión de muñecas de Tlaxcala. Este proyecto permite digitalizar el inventario, gestionar ventas vía WhatsApp y administrar accesos familiares de forma segura.
 
 ## 🚀 Tecnologías Utilizadas
 
