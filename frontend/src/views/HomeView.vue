@@ -9,7 +9,7 @@ const router = useRouter()
 const productos = ref([])
 const cargando = ref(true)
 
-const WHATSAPP_NUMBER = "52XXXXXXXXXX" 
+const WHATSAPP_NUMBER = import.meta.env.VITE_WHATSAPP_NUMBER // "52XXXXXXXXXX" // Número de WhatsApp (con código de país)
 
 const obtenerProductos = async () => {
   try {
